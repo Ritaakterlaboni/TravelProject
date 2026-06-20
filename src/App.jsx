@@ -1,16 +1,9 @@
 
 import './App.css'
-import Navber from './Components/Layout/Navber'
-import Home from './Components/Pages/Home'
+import DestinationPage from './Components/Pages/DestinationPage'
 
 function App() {
-
-
-  return (
-    <>
-    <Home/>
-    </>
-  )
+  return <DestinationPage />
 }
 
 export default App

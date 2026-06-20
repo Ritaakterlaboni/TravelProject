@@ -8,7 +8,7 @@ import plan from '../../assets/plane.png'
 const HeroPart = () => {
   return (
     <>
-    <div className="hero_part mt-[50px] ">
+    <div className="hero_part py-[50px] pb-[135px] bg-[#F8F7F7]">
         <Container className='px-6 grid-cols-2 grid gap-4'>
         <div className="leftPart mr-10 mt-4">
                 <div className="title text-[20px] font-poppins font-bold text-[#DF6951]">Best Destinations around the world</div>
